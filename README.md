@@ -1,4 +1,0 @@
-dish
-====
-
-swing dish system
